@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/Engin.dir/src/Renderer.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

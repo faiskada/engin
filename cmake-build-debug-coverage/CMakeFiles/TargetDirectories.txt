@@ -1,0 +1,3 @@
+/home/faiskada/CLionProjects/Engin/cmake-build-debug-coverage/CMakeFiles/Engin.dir
+/home/faiskada/CLionProjects/Engin/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/home/faiskada/CLionProjects/Engin/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir

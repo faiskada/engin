@@ -1,0 +1,40 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/faiskada/CLionProjects/Engin/cmake-build-debug-coverage",
+	"dir-cur-src" : "/home/faiskada/CLionProjects/Engin",
+	"dir-top-bld" : "/home/faiskada/CLionProjects/Engin/cmake-build-debug-coverage",
+	"dir-top-src" : "/home/faiskada/CLionProjects/Engin",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/usr/include/SDL2"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/faiskada/CLionProjects/Engin/cmake-build-debug-coverage/CMakeFiles/Engin.dir",
+	"sources" : 
+	{
+		"CMakeFiles/Engin.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/faiskada/CLionProjects/Engin/main.cpp"
+		},
+		"CMakeFiles/Engin.dir/src/Engine.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/faiskada/CLionProjects/Engin/src/Engine.cpp"
+		},
+		"CMakeFiles/Engin.dir/src/Renderer.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/faiskada/CLionProjects/Engin/src/Renderer.cpp"
+		}
+	}
+}
